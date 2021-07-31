@@ -11,4 +11,3 @@ Matérias com arquivos no repositório:
 
   > Lista 1 - Primeira lista com 5 questões onde as 3 primeiras são para criar código, a quarta para responder e a quinta para elaborar lógica de uso de hash.
 
-### **Teoria da Computação**
